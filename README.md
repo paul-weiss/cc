@@ -2,7 +2,7 @@
 
 ### Big Six
 
-July 27,2020 | Movement              | Step | Set 1 | Set 2 | Set 3
+Date         | Movement              | Step | Set 1 | Set 2 | Set 3
 ------------ | --------------------- | ---- | ----- | ----- | -----
 Mon.         | Pullups               | One  |       |       |     
 Tues.        | Bridges               | One  |       |       |      
